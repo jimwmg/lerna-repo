@@ -1,5 +1,5 @@
 {
-  "name": "lerna-module2",
+  "name": "lerna-tool1",
   "version": "1.0.2-alpha.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.14"
-  }
+  },
+  "gitHead": "f459832dff5ccbcc2e7e34e730a59f3a4d0514a9"
 }
