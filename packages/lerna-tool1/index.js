@@ -1,4 +1,4 @@
-module.exports = {
-  test2:"lerna-module2",
-  update1:"update2"
+import createApp from './lib/createApp.js'
+export default  {
+  createApp
 }
