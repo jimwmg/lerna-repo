@@ -1,6 +1,6 @@
 {
   "name": "lerna-tool2",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lerna-tool1": "^1.0.4",
+    "lerna-tool1": "^1.0.6",
     "vue": "^2.6.10"
   },
   "gitHead": "f459832dff5ccbcc2e7e34e730a59f3a4d0514a9"
