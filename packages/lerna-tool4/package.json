@@ -1,5 +1,5 @@
 {
-  "name": "lerna-tool1",
+  "name": "lerna-tool3",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^3.8.0"
-  },
-  "gitHead": "eeabc0704fe0f20698403eb31a7e27074339dd10"
+    "@omega-tracker/core": "git+https://git.xiaojukeji.com/qt-fe/tracker/tracker-core.git#a2728ab54edc6faf39f88dd6e3d91aa8ba920293"
+  }
 }
