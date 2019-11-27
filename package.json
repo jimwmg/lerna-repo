@@ -1,7 +1,23 @@
 {
-  "name": "lerna-root",
-  "version":"1.0.0",
-  "devDependencies": {
-    "lerna": "^3.15.0"
+  "name": "learn-travis-test",
+  "version": "2.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimwmg/lerna-travis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimwmg/lerna-travis/issues"
+  },
+  "homepage": "https://github.com/jimwmg/lerna-travis#readme",
+  "dependencies": {
+    "lerna-tool1": "^2.0.0"
   }
 }
