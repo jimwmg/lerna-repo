@@ -1,3 +1,3 @@
 module.exports = {
-  test1:"lerna-module1"
+  test1:"lerna-module4"
 }

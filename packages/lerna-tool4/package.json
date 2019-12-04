@@ -1,6 +1,6 @@
 {
-  "name": "lerna-tool5",
-  "version": "2.0.0",
+  "name": "lerna-tool4",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@omega-tracker/core": "git+https://git.xiaojukeji.com/qt-fe/tracker/tracker-core.git#a2728ab54edc6faf39f88dd6e3d91aa8ba920293",
-    "lerna-root": "git+https://github.com/jimwmg/lerna-repo.git"
+    
+  },
+  "peerDependencies":{
+    "lerna-tool1":"1.0.7"
   }
 }
