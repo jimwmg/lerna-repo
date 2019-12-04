@@ -1,0 +1,17 @@
+{
+  "name": "lerna-tool5",
+  "version": "2.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@omega-tracker/core": "git+https://git.xiaojukeji.com/qt-fe/tracker/tracker-core.git#a2728ab54edc6faf39f88dd6e3d91aa8ba920293",
+    "lerna-root": "git+https://github.com/jimwmg/lerna-repo.git"
+  },
+  "engines" : {"node" : ">=8.10.0" }
+}
